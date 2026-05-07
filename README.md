@@ -22,7 +22,7 @@ As an all-rounder fullstack developer, diving deeper into data pipelines and age
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| Song Vibe Radar | Agentic recommendation system, based on the song's aesthetic profile instead of plain metadata | `Python`, `LangChain`, `LangGraph`, `LangSmith`, `Starlette` |
+| Song Vibe Radar | Agentic recommendation system, based on the song's aesthetic profile rather than plain metadata | `Python`, `LangChain`, `LangGraph`, `LangSmith`, `Starlette` |
 
 ---
 
