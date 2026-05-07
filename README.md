@@ -23,6 +23,8 @@ As an all-rounder fullstack developer, diving deeper into data pipelines and age
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Song Vibe Radar](https://github.com/madibary/song_vibe_radar) | Agentic recommendation system, based on the song's aesthetic profile rather than plain metadata | `Python`, `LangChain`, `LangGraph`, `LangSmith`, `Starlette` |
+| [RAG Video Assistant](https://github.com/madibary/RAG-video-assistant) | Multi-source agentic RAG system for course video data and research papers | `Python`, `LangChain`, `LangGraph`, `Pinecone`, `CrossEncoder Reranker` |
+
 
 ---
 
