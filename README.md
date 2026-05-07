@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Madlen 👋
 
-<!--
-**madibary/madibary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior software developer, passionate about designing reliable, production-ready solutions.
+As an all-rounder fullstack developer, diving deeper into data pipelines and agentic architectures is my current goal!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages**
+`Python` `Javascript` `Typescript` `HTML` `CSS` `SQL`
+
+**Frameworks & Tools**
+`Docker` `AWS` `Kubernetes` `LangChain` `Langgraph` `Langsmith` `Flask` `Terraform` `Hugging Face` `Redis` `React` `Redux` `Node.js`  `Github Actions` `GraphQL` `Datadog` `FastAPI` `Starlette`
+
+**Databases & Search**
+`PostgreSQL` `Pinecone` `MongoDB` `AWS Redshift`
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| Song Vibe Radar | Agentic recommendation system, based on the song's aesthetic profile instead of plain metadata | `Python`, `LangChain`, `LangGraph`, `LangSmith`, `Starlette` |
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/madlen-barsky-58ba931a3/)
+
